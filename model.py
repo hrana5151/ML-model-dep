@@ -1,1 +1,1 @@
-print("deployment of logistic regression model")
+print("deployment of DTC regression model")
